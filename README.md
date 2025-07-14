@@ -4,9 +4,10 @@
 
 I'm a **junior IT specialist in system integration**, currently diving deeper into **system engineering** and **cybersecurity**. I’m building hands-on experience through platforms like HackTheBox and training environments, with a focus on learning how to understand, secure, and manage IT infrastructure.
 
-- 🎯 Aspiring **System Engineer / Penetration Tester**
+- 🎯 Aspiring **System Engineer**
 - 🛠️ In training as an **IT Specialist for System Integration (IHK)**
 - 🌱 Currently learning by doing and experimenting in labs and virtual environments
+- 🏪 Developing and selling Onlineshops with Shopify or WooCommerce
 
 ---
 
