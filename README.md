@@ -2,61 +2,50 @@
 
 ## 💻 About Me
 
-I'm a **junior IT specialist in system integration**, currently diving deeper into **system engineering** and **cybersecurity**. I’m building hands-on experience through platforms like HackTheBox and training environments, with a focus on learning how to understand, secure, and manage IT infrastructure.
+I'm a **junior IT specialist in system integration**, currently expanding my skills in **web development** and **app building**. Alongside my training, I develop Shopify apps and React-based frontends — always focused on building clean, functional products.
 
-- 🎯 Aspiring **System Engineer**
+- 🎯 Aspiring **Web & App Developer**
 - 🛠️ In training as an **IT Specialist for System Integration (IHK)**
-- 🌱 Currently learning by doing and experimenting in labs and virtual environments
-- 🏪 Developing and selling Onlineshops with Shopify or WooCommerce
+- 🌱 Currently building Shopify apps and React frontends
+- 🏪 Developing and selling online shops with Shopify & WooCommerce
 
----
+***
 
-## 🧰 Tech I'm Exploring
+## 🧰 Tech I'm Working With
 
-> *Note: I’m currently learning and building proficiency in the tools below.*
+- ⚛️ **Frontend:** React, JavaScript, HTML/CSS
+- 🛍️ **E-Commerce:** Shopify (Apps & Themes), WooCommerce
+- ⚙️ **Scripting:** Bash, PowerShell
+- 💾 **Environments:** Git, VS Code, Node.js
 
-- 🖥️ **Operating Systems:** Linux (Debian/Kali), Windows Server  
-- 🌐 **Networking:** Cisco basics, TCP/IP, VLANs, Routing/Switching  
-- 🔒 **Security Tools:** Wireshark, Nmap, Burp Suite, Evil-WinRM  
-- ⚙️ **Scripting:** PowerShell, Bash  
-- 💾 **Environments:** Git, VS Code, VMware, VirtualBox  
-
----
+***
 
 ## 📚 Current Focus
 
-- 🔐 Learning **offensive security** concepts and tools  
-- 🌐 Strengthening my **networking fundamentals** (e.g., routing, VPNs, protocols)  
-- 🎯 Preparing for **CompTIA Security+**, **CCNA**, and eventually **OSCP**  
+- ⚛️ Building **React frontends** and custom **Shopify apps**
+- 🛒 Creating and scaling **e-commerce solutions**
+- 🌱 Deepening my **JavaScript & Node.js** skills
 
----
+***
 
 ## 🧠 Mindset
 
-- 🤝 **Collaboration leads to success.** I'm always open to working together — let's build something great as a team.
-- 😄 **Positivity beats saltiness.** Got feedback or an issue? Open a discussion — we're all here to learn and grow.
-- 📚 **Learning is never finished.** The tech world evolves fast, and I believe in staying curious and constantly improving.
-- 🛠️ **Done is better than perfect.** Iteration and progress matter more than perfection — start, build, and improve.
+- 🤝 **Collaboration leads to success.** Always open to working together — let's build something great.
+- 😄 **Positivity beats saltiness.** Got feedback? Open a discussion — we're all here to grow.
+- 📚 **Learning is never finished.** Stay curious and keep improving.
+- 🛠️ **Done is better than perfect.** Start, build, iterate.
 
----
+***
 
 ## 🌐 Connect with Me
 
-- 🔗 [GitHub – `inf1nite021`](https://github.com/inf1nite021?tab=repositories)  
-- 🧠 [HackTheBox Profile](https://app.hackthebox.com/profile/359309)  
+- 🔗 [GitHub – `inf1nite021`](https://github.com/inf1nite021?tab=repositories)
 - 💬 **Discord:** `inf20597`
 
----
+***
 
 ## 📌 Motto
 
-> _"Stay curious, break things (legally), and always keep learning."_
+> _"Stay curious, ship things, and always keep building."_
 
----
-
-## 📊 GitHub Stats
-
-![Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=inf1nite021&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inf1nite021&layout=compact&theme=tokyonight)
-
----
+***
