@@ -7,7 +7,7 @@ I'm a **junior IT specialist in system integration**, currently expanding my ski
 - 🎯 Aspiring **Web & App Developer**
 - 🛠️ In training as an **IT Specialist for System Integration (IHK)**
 - 🌱 Currently building Shopify apps and React frontends
-- 🏪 Developing and selling online shops with Shopify & WooCommerce
+- 🏪 Developing and selling online shops with Shopify
 
 ***
 
